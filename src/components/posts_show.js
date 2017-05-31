@@ -13,6 +13,7 @@ class PostsShow extends Component {
 
     if (!post) {
       return <div>Loading...</div>;
+      
     }
 
     return (
